@@ -12,12 +12,9 @@ Este proyecto implementa una estructura de grafos y nodos para realizar un grafi
 ## 📚 Requisitos
 
 - Java JDK 8 o superior  
-- Un IDE de Java (recomendado: IntelliJ IDEA o Eclipse)
+- Un IDE de Java
 
 ## 🎓 Propósito Educativo
 
-Este proyecto fue desarrollado para una presentación o exposición universitaria (`Expo Ingeniería`), con el objetivo de demostrar comprensión de teoría de grafos y estructuras de datos implementadas en Java.
+Este proyecto fue desarrollado con el objetivo de demostrar comprensión de teoría de grafos y estructuras de datos implementadas en Java.
 
----
-
-¡Siéntete libre de explorar, modificar o expandir este proyecto!
