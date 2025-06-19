@@ -14,7 +14,7 @@ Este proyecto implementa una estructura de grafos y nodos para realizar un grafi
 - Java JDK 8 o superior  
 - Un IDE de Java
 
-## 🎓 Propósito Educativo
+## 🎓 Propósito
 
 Este proyecto fue desarrollado con el objetivo de demostrar comprensión de teoría de grafos y estructuras de datos implementadas en Java.
 
